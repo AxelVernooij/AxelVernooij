@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 Ever since i was watching mad scientists on TV and doing technical work for my family I've become enamored with coding and making devices that make a positive difference in the world.
 This took me to university where i studied further languages techniques algorithms and put them into practice making projects to show off what Ive accomplished and what I'm capable of doing.
 now as I continue my journey after graduation I continue feeding my desire to learn and improve getting experience with more software and bringing my skills to companies that work to make lives better.
+
 Specialties: C, C++, Python, java
